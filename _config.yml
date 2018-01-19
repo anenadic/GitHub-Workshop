@@ -1,7 +1,6 @@
 # Site settings
 title: 4IR CDT
-description: "Future leaders in data intensive methodologies."
-#"Future leaders in the data intensive methodologies underpinning both modern science and the fourth industrial revolution."
+description: "Future leaders in the data intensive methodologies underpinning both modern science and the fourth industrial revolution."
 url: "https://rainsworth.github.io"
 
 
@@ -11,7 +10,7 @@ url: "https://rainsworth.github.io"
 baseurl: "/4IR-GitHub-Workshop"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /4IR-GitHub-Workshop/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /4IR-GitHub-Workshop/img/logos/study.png
 
 # Tertiary Parameters
 github_username:  rainsworth
