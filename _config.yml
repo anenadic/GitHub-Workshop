@@ -10,7 +10,7 @@ url: "https://rainsworth.github.io"
 baseurl: "/4IR-GitHub-Workshop"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /4IR-GitHub-Workshop/img/logos/study.png
+logo: #/4IR-GitHub-Workshop/img/logos/study.png
 
 # Tertiary Parameters
 github_username:  rainsworth
