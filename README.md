@@ -2,16 +2,16 @@
 
 This workshop will involve a collaborative group exercise to build a 4IR webpage using GitHub, lead by [Dr. Rachael Ainsworth](https://www.research.manchester.ac.uk/portal/rachael.ainsworth.html), Research Associate in Radio Astronomy and Open Science Champion at Jodrell Bank Centre for Astrophysics, University of Manchester.
 
-- [Friendly intro to GitHub](#Friendly-intro-to-GitHub)
-  * [What is GitHub?](#What-is-GitHub)
-  * [Examples of how GitHub is used](#Examples-of-how-GitHub-is-used)
-  * [Interface Tour and Jargon Busting](Interface-Tour-and-Jargon-Busting)
-  * [Markdown](#Markdown)
-- [Hands-on activities](#Hands-on-activities)
-  * [Hello world](#Hello-world)
-  * [4IR CDT website](#4IR-CDT-website)
-  * [Personal website](#Personal-website)
-- [More Resources](#More-Resources)
+- [Friendly intro to GitHub](#friendly-intro-to-github)
+  * [What is GitHub?](#what-is-github)
+  * [Examples of how GitHub is used](#examples-of-how-github-is-used)
+  * [Interface Tour and Jargon Busting](#interface-tour-and-jargon-busting)
+  * [Markdown](#markdown)
+- [Hands-on activities](#hands-on-activities)
+  * [Hello world](#hello-world)
+  * [4IR CDT website](#4ir-cdt-website)
+  * [Personal website](#personal-website)
+- [More Resources](#more-resources)
 
 <!-- toc -->
 
