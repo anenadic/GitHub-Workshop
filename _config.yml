@@ -1,23 +1,23 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
-url: "https://projectpages.github.io"
+title: 4IR CDT
+description: "Future leaders in the data intensive methodologies underpinning both modern science and the fourth industrial revolution."
+url: "https://rainsworth.github.io/4IR-GitHub-Workshop"
 
 
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/4IR-GitHub-Workshop"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+#logo: /4IR-GitHub-Workshop/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
-altmetric: true
+github_username:  rainsworth
+project_repository: 4IR-GitHub-Workshop
+#disqus_shortname: project-pages
+#g-analytics: UA-75881392-1
+#altmetric: true
 
 # Build settings
 gems: [jekyll-paginate]
