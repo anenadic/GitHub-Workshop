@@ -15,7 +15,7 @@ This workshop will involve a collaborative group exercise to build a 4IR webpage
 
 <!-- toc -->
 
-## Friendly intro to GitHub: an online portfolio for open and collaborative research :octocat:
+## Friendly intro to GitHub :octocat:
 
 A brief tutorial inspired by the [Mozilla Science Lab Friendly Intro to GitHub](https://github.com/mozillascience/friendly-github).
 
