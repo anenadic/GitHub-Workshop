@@ -14,18 +14,18 @@ This workshop will involve a collaborative group exercise to build a 4IR webpage
 * [More Resources](#More-Resources)
 
 
-### Friendly intro to GitHub: an online portfolio for open and collaborative research :octocat:
+## Friendly intro to GitHub: an online portfolio for open and collaborative research :octocat:
 
 A brief tutorial inspired by the [Mozilla Science Lab Friendly Intro to GitHub](https://github.com/mozillascience/friendly-github).
 
-#### What is GitHub?
+### What is GitHub?
 * Git is an open source program for tracking changes in text files. It was written by the author of the Linux operating system, and is the core technology that GitHub, the social and user interface, is built on top of.
 * GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 * Open and reproducible science/code/research
    * Open source software is software that can be [freely used, modified, and shared (in both modified and unmodified form) by anyone](http://opensource.org/definition). Today the concept of "open source" is often extended beyond software, to represent a philosophy of collaboration in which working materials are made available online for anyone to fork, modify, discuss, and contribute to.
    * For more information on open source, specifically how to create and grow an open source project, GitHub have created [Open Source Guides](https://opensource.guide/) that will help you foster a healthy open source community.
 
-#### Examples of how GitHub is used
+### Examples of how GitHub is used
 
 * Project Management
 * Websites
@@ -35,7 +35,7 @@ A brief tutorial inspired by the [Mozilla Science Lab Friendly Intro to GitHub](
 * Online portfolio of your work
 * All the things
 
-#### Interface Tour and Jargon Busting
+### Interface Tour and Jargon Busting
 Glossary via [Mozilla Science Lab's GitHub Essentials](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/#glossary)
 
 * **repository**, or **repo** - a collection of documents related to your project, in which you create and save new code or content.
@@ -52,7 +52,7 @@ Glossary via [Mozilla Science Lab's GitHub Essentials](http://joeyklee.github.io
 * **README** - a document that introduces an open project to the public and any potential contributors; the first thing you see in a repo; usually written in Markdown
 
 
-#### Markdown
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -77,13 +77,13 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [Emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
 
 
-### Hands-on activities
+## Hands-on activities
 
-#### Hello world!
+### Hello world!
 We will begin by following the GitHub Guides [Hello-World tutorial](https://guides.github.com/activities/hello-world/) where everyone will create a repository and edit the `README` to become more familiar with the GitHub platform.
 
 
-#### 4IR CDT website
+### 4IR CDT website
 There will then be a collaborative group exercise to build a 4IR webpage using GitHub!
 
 1. Identify what information/sections/tabs/pages you want to include on the website (e.g. an About page, an events page, a list of students/projects, a blog, contact info, etc.).
@@ -97,11 +97,11 @@ There will then be a collaborative group exercise to build a 4IR webpage using G
 9. Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/). This opens a discussion around your project and lets the project lead know you are proposing changes.
 10. Merge the pull request and check out your website! :tada:
 
-#### Personal website
+### Personal website
 Is there still time left in the workshop? Try making a website for your personal GitHub account following these steps! We can link them to the student bios on the 4IR CDT website. :sunglasses:
 
 
-### More Resources
+## More Resources
 
 * GitHub Guides - https://guides.github.com/
 * GitHub Glossary https://help.github.com/articles/github-glossary/
