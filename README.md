@@ -13,6 +13,7 @@ This workshop will involve a collaborative group exercise to build a 4IR webpage
   * [Personal website](#Personal-website)
 - [More Resources](#More-Resources)
 
+<!-- toc -->
 
 ## Friendly intro to GitHub: an online portfolio for open and collaborative research :octocat:
 
