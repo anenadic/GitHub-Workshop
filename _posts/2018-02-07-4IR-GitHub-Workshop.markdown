@@ -12,6 +12,8 @@ category:
 
 This workshop will involve a collaborative group exercise to build a 4IR webpage using GitHub, lead by [Dr. Rachael Ainsworth](https://www.research.manchester.ac.uk/portal/rachael.ainsworth.html), Research Associate in Radio Astronomy and Open Science Champion at Jodrell Bank Centre for Astrophysics, University of Manchester.
 
+Agenda:
+
 - [Friendly intro to GitHub](#friendly-intro-to-github)
   * [What is GitHub?](#what-is-github)
   * [Examples of how GitHub is used](#examples-of-how-github-is-used)
