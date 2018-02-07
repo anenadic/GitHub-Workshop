@@ -112,3 +112,18 @@ Is there still time left in the workshop? Try making a website for your personal
 * Mastering Markdown - https://guides.github.com/features/mastering-markdown/
 * How to choose a license for your GitHub repository - https://choosealicense.com/
 * Mozilla Science Lab GitHub Essentials - http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/
+
+
+## 4IR CDT Website
+
+During the workshop, the students identified the following to include on the website:
+- Events
+- About page
+    * Vacancies
+    * Project partners
+- Student profiles
+    * per year?
+ 
+And voted to use the [Sleek theme](http://jekyllthemes.org/themes/sleek/).
+
+Their website repo is [here](https://github.com/4ir-cdt/4ir-cdt.github.io), and the website is [here](https://4ir-cdt.github.io/).
