@@ -92,12 +92,12 @@ There will then be a collaborative group exercise to build a 4IR webpage using G
 1. Identify what information/sections/tabs/pages you want to include on the website (e.g. an About page, an events page, a list of students/projects, a blog, contact info, etc.).
 2. Choose a theme (e.g. from [http://jekyllthemes.org/](http://jekyllthemes.org/)) that will best present that information.
 3. Go to your chosen theme's GitHub repository (e.g. [Project Pages](https://github.com/projectpages/project-pages) used in our example [here](https://rainsworth.github.io/4IR-GitHub-Workshop/)).
-4. [Fork](https://help.github.com/articles/fork-a-repo/) the theme repository. This makes your own version of the content that you can edit and use while maintaining credit to the theme authors.
+4. **Fork** the theme repository. This makes your own version of the content that you can edit and use while maintaining credit to the theme authors.
 5. Go to Settings to update the repository name (e.g. to `username.github.io`) and enable GitHub Pages by selecting a branch (e.g. `master` or `gh-pages`) as a source for your webpage.
 6. Edit the `_config.yml` file to point to your repository, change the title and any other user information.
 7. Edit the `README` to include information about the website or project repository (read more about `README` files [here](https://help.github.com/articles/about-readmes/)).
-8. [Make your changes](https://guides.github.com/activities/forking/#making-changes)! In this case, add or change elements to the website as you see fit (e.g. add relevant information to the About page, add an events page with upcoming 4IR CDT workshops, create student profiles). For this workshop, we will make our changes in the GitHub interface. Once you're happy with your changes...
-9. Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/). This opens a discussion around your project and lets the project lead know you are proposing changes.
+8. **Make your changes**! In this case, add or change elements to the website as you see fit (e.g. add relevant information to the About page, add an events page with upcoming 4IR CDT workshops, create student profiles). For this workshop, we will make our changes in the GitHub interface. Once you're happy with your changes...
+9. Submit a **pull request**. This opens a discussion around your project and lets the project lead know you are proposing changes.
 10. Merge the pull request and check out your website! :tada:
 
 ### Personal website
