@@ -2,7 +2,7 @@
 
 This material is based on [Rachael Ainsworth's 4IR GitHub workshop](https://github.com/rainsworth/4IR-GitHub-Workshop).
 
-This workshop gives an introduction to GitHub and how one would interact with it in a typical pipeline to create own project or contribute to an existing project.
+This workshop gives an introduction to GitHub and how one would interact with it in a typical pipeline to create own project or contribute to an existing project. We recommend for it to be followed by a workshop on how to worh with git from a command line, for example [Software Carpentry's git workshop](https://swcarpentry.github.io/git-novice/).
 
 Agenda:
 
