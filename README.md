@@ -1,6 +1,8 @@
-# 4IR CDT GitHub Workshop
+# GitHub Workshop
 
-This workshop will involve a collaborative group exercise to build a 4IR webpage using GitHub, lead by [Dr. Rachael Ainsworth](https://www.research.manchester.ac.uk/portal/rachael.ainsworth.html), Research Associate in Radio Astronomy and Open Science Champion at Jodrell Bank Centre for Astrophysics, University of Manchester.
+This material is based on [Rachael Ainsworth's 4IR GitHub workshop](https://github.com/rainsworth/4IR-GitHub-Workshop).
+
+This workshop gives an introduction to GitHub and how one would interact with it in a typical pipeline to create own project or contribute to an existing project.
 
 Agenda:
 
