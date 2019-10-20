@@ -95,7 +95,7 @@ In the process, we will also explore various GitHub features, such as projects, 
 ### Build a website in GitHub
 This is a collaborative group exercise to build a webpage using GitHub.
 
-1. Identify what information/sections/tabs/pages you want to include on the website (e.g. an About page, an events page, a list of students/projects, a blog, contact info, etc.).
+1. Identify what information/sections/tabs/pages you want to include on the website (e.g. an About page, an events page, a list of projects, a blog, contact info, etc.).
 2. Choose a theme (e.g. from [http://jekyllthemes.org/](http://jekyllthemes.org/)) that will best present that information.
 3. Go to your chosen theme's GitHub repository (e.g. [Project Pages](https://github.com/projectpages/project-pages) used in our example [here](https://rainsworth.github.io/4IR-GitHub-Workshop/)).
 4. **Fork** the theme repository. This makes your own version of the content that you can edit and use while maintaining credit to the theme authors.
@@ -107,7 +107,7 @@ This is a collaborative group exercise to build a webpage using GitHub.
 10. Merge the pull request and check out your website! :tada:
 
 ### Personal website
-Is there still time left in the workshop? Try making a website for your personal GitHub account following these steps! We can link them to the student bios on the 4IR CDT website. :sunglasses:
+Is there still time left in the workshop? Try making a website for your personal GitHub account following these steps! :sunglasses:
 
 ## More Resources
 
