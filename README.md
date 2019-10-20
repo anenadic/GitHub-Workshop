@@ -81,15 +81,19 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [Emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
 
-
 ## Hands-on activities
 
 ### Hello world!
-We will begin by following the GitHub Guides [Hello-World tutorial](https://guides.github.com/activities/hello-world/) where everyone will create a repository and edit the `README` to become more familiar with the GitHub platform.
+We will begin by following the GitHub Guides [Hello-World tutorial](https://guides.github.com/activities/hello-world/) where everyone will create a repository calle `hello-world` and edit the `README` to become more familiar with the GitHub platform.
 
+We will also cover creating a new branch, comparing changes and merging changes from the new branch into the main resitory branch `master` via a pull request.
 
-### 4IR CDT website
-There will then be a collaborative group exercise to build a 4IR webpage using GitHub!
+Finally, we will play with forking someone else's repository, doing a pull request upstream (to the repository we forked from).
+
+In the process, we will also explore various GitHub features, such as projects, wikis, teams and pinned repositories.
+
+### Build a website in GitHub
+This is a collaborative group exercise to build a webpage using GitHub.
 
 1. Identify what information/sections/tabs/pages you want to include on the website (e.g. an About page, an events page, a list of students/projects, a blog, contact info, etc.).
 2. Choose a theme (e.g. from [http://jekyllthemes.org/](http://jekyllthemes.org/)) that will best present that information.
@@ -105,7 +109,6 @@ There will then be a collaborative group exercise to build a 4IR webpage using G
 ### Personal website
 Is there still time left in the workshop? Try making a website for your personal GitHub account following these steps! We can link them to the student bios on the 4IR CDT website. :sunglasses:
 
-
 ## More Resources
 
 * GitHub Guides - https://guides.github.com/
@@ -114,18 +117,3 @@ Is there still time left in the workshop? Try making a website for your personal
 * Mastering Markdown - https://guides.github.com/features/mastering-markdown/
 * How to choose a license for your GitHub repository - https://choosealicense.com/
 * Mozilla Science Lab GitHub Essentials - http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/
-
-
-## 4IR CDT Website
-
-During the workshop, the students identified the following to include on the website:
-- Events
-- About page
-    * Vacancies
-    * Project partners
-- Student profiles
-    * per year?
- 
-And voted to use the [Sleek theme](http://jekyllthemes.org/themes/sleek/).
-
-Their website repo is [here](https://github.com/4ir-cdt/4ir-cdt.github.io), and the website is [here](https://4ir-cdt.github.io/).
