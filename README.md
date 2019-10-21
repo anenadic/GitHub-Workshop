@@ -13,7 +13,7 @@ Agenda:
   * [Markdown](#markdown)
 - [Hands-on activities](#hands-on-activities)
   * [Hello world](#hello-world)
-  * [4IR CDT website](#4ir-cdt-website)
+  * [Building a website in GithHub](#build-a-website-in-gitHub)
   * [Personal website](#personal-website)
 - [More Resources](#more-resources)
 
