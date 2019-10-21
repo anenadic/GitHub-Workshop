@@ -111,8 +111,9 @@ Is there still time left in the workshop? Try making a website for your personal
 
 ## More Resources
 
+* Software Carpentry's git workshop - https://swcarpentry.github.io/git-novice/
 * GitHub Guides - https://guides.github.com/
-* GitHub Glossary https://help.github.com/articles/github-glossary/
+* GitHub Glossary - https://help.github.com/articles/github-glossary/
 * Understanding the GitHub flow - https://guides.github.com/introduction/flow/
 * Mastering Markdown - https://guides.github.com/features/mastering-markdown/
 * How to choose a license for your GitHub repository - https://choosealicense.com/
