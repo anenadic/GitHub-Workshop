@@ -118,4 +118,8 @@ Is there still time left in the workshop? Try making a website for your personal
 * How to choose a license for your GitHub repository - https://choosealicense.com/
 * Mozilla Science Lab GitHub Essentials - http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/
 * Software Carpentry's git workshop - https://swcarpentry.github.io/git-novice/
+* Visual explanations of git:
+  - https://onlywei.github.io/explain-git-with-d3/
+  - https://agripongit.vincenttunru.com/
+  - https://marklodato.github.io/visual-git-guide/index-en.html
 
